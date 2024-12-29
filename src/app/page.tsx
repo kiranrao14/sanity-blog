@@ -114,6 +114,14 @@ export default async function BlogList() {
           </div>
         </div>
       </footer>
+      
     </>
   );
 }
+
+
+
+
+
+    
+    
