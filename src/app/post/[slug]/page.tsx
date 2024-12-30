@@ -69,8 +69,8 @@ export default function BlogPost() {
           <div className="flex items-center space-x-6">
             <ThemeToggleButton />
             <ul className="flex space-x-6">
-              <li><Link href="/about" className="hover:text-yellow-400">About</Link></li>
-              <li><Link href="/contact" className="hover:text-yellow-400">Contact</Link></li>
+              <li><Link href="/About" className="hover:text-yellow-400">About</Link></li>
+              <li><Link href="/Contact" className="hover:text-yellow-400">Contact</Link></li>
             </ul>
           </div>
         </div>
